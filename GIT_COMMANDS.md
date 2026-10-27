@@ -2,10 +2,9 @@
 
 Use these commands after creating an empty GitHub repository.
 
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ```bash
-git remote add origin https://github.com/YOUR_USERNAME/flask-git-assignment.git
+git remote add origin https://github.com/cgoudar-sys/flask-git-assignment.git
 git push -u origin main
 git push -u origin dev
 ```
