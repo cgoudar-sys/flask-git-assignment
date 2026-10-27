@@ -7,7 +7,7 @@ This project is a small Flask web application created for practicing REST API en
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/flask-git-assignment.git
+git clone https://github.com/cgoudar-sys/flask-git-assignment.git
 cd flask-git-assignment
 ```
 
